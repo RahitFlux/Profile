@@ -1,3 +1,5 @@
+<img src="RahitFlux - Profile.png" width="100" height="100">
+
 # RahitFlux
 I'm Professional Developer and UI & UX Designer.
 
